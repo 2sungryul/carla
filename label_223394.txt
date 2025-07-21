@@ -1,0 +1,16 @@
+[LiDAR]
+Location: -52.162 90.284 2.533
+Rotation: -0.374 90.151 0.760
+
+[Ego Vehicle]
+Location: -52.130 90.269 0.133
+Rotation: -0.374 90.151 0.760
+BBox Center: -52.142 90.240 1.021
+BBox Extent: 2.276 1.048 0.886
+
+[Vehicle ID 46]
+Location: 10.474 24.717 0.020
+Rotation: -0.102 -0.008 1.301
+BBox Center: 10.442 24.737 0.908
+BBox Extent: 2.276 1.048 0.886
+
